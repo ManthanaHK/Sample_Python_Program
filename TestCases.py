@@ -81,5 +81,3 @@ assert my_dict(dic1) == True
 assert unique() == ([5,7])
 
 assert dupElements() == [12,3,4]
-
-# Testing
